@@ -88,5 +88,4 @@ return (new Config())
 		'trailing_comma_in_multiline'                 => true,
 	])
 	->setIndent("\t")
-	->setLineEnding("\n")
-;
+	->setLineEnding("\n");
